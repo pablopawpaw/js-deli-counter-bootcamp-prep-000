@@ -33,6 +33,8 @@ function currentLine(line) {
       currLineStatement = currLineStatement + (i+1) + ". " + line[i] + ", "
         if(i===line.length-1) { 
           
+        } else {
+          
         }
       
       }
